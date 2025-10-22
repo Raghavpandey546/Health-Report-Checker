@@ -1,0 +1,13 @@
+This tells git to ignore our secret file
+
+.env
+
+This tells git to ignore our database file
+
+diagno-verse.db
+*.db
+
+This tells git to ignore Python's temporary cache files
+
+pycache/
+*.pyc
